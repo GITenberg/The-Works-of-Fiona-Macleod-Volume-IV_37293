@@ -1,0 +1,40 @@
+_repo: The-Works-of-Fiona-Macleod-Volume-IV_37293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Sharp, William
+    alias: Macleod, Fiona
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '337'
+    url: http://www.gutenberg.org/2009/agents/337
+    wikipedia: http://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+  - agent_name: Sharp, Elizabeth A. (Elizabeth Amelia)
+    aliases:
+    - Sharp, E. A. (Elizabeth Amelia)
+    - Sharp, Elizabeth Amelia Sharp
+    - Sharp, Mrs. William
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '44084'
+    url: http://www.gutenberg.org/2009/agents/44084
+description: ''
+gutenberg_issued: '2011-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scottish literature'
+- !lcsh 'English literature -- Scottish authors'
+- !lcc 'PR'
+tableOfContents: The Divine Adventure -- Iona -- By Sundown Shores -- From "Green
+  Fire" -- A Dream
+title: The Works of "Fiona Macleod", Volume IV
+url: http://www.gutenberg.org/ebooks/37293
